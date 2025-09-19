@@ -1,0 +1,7 @@
+# Build artifacts
+editor
+*.o
+*.exe
+
+# Test files
+test_*.txt
